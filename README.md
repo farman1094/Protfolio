@@ -8,7 +8,7 @@
 
 **Open to private security reviews and research collaborations**
 
-[Email](mailto:farmanlearningweb3@gmail.com) · [X / Twitter](https://x.com/farman1094_) · [GitHub](https://github.com/farman1094) · [Sherlock](https://audits.sherlock.xyz/watson/farman1094) · [Code4rena](https://code4rena.com/@farman1094) · [Immunefi](https://immunefi.com/profile/farman1094/)
+[Email](mailto:farmanlearningweb3@gmail.com) · [X / Twitter](https://x.com/farman1094_) · [Sherlock](https://audits.sherlock.xyz/watson/farman1094) · [Code4rena](https://code4rena.com/@farman1094) · [Immunefi](https://immunefi.com/profile/farman1094/)
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ## About
 
-I am a smart contract security researcher focused on identifying high-impact vulnerabilities in DeFi protocols. I have audited a wide range of systems, including perpetual exchanges, stablecoins, lending protocols, tokenized vaults, staking systems, yield protocols, and cross-chain infrastructure.
+I am a smart contract security researcher focused on identifying high-impact vulnerabilities in DeFi protocols. I have audited a wide range of systems, including perpetual exchanges, stablecoins, tokenized vaults, staking systems, yield protocols, and cross-chain infrastructure.
 
 I have contributed to numerous public audit competitions across Code4rena, Sherlock, Immunefi, and Cantina, earning five podium finishes. This experience has exposed me to different protocol architectures and codebases ranging from approximately 1,000 to more than 10,000 lines of Solidity.
 
@@ -24,9 +24,9 @@ My research focuses on protocol logic, accounting, access control, oracles, and 
 
 ## 🔒 Private Engagements
 
-| Date | Team | Protocol | Category | Report |
-|---|---|---|---|---|
-| 2026 | Pashov Audit Group | MegPrime | Undisclosed | Report not public yet |
+| Team | Protocol | Category | Report |
+|---|---|---|---|
+| Pashov Audit Group | MegPrime | Dex | Report not public yet |
 
 ## 🏆 Public Audit Competitions
 
