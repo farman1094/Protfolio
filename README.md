@@ -2,8 +2,6 @@
 
 # Mohd Farman - Smart Contract Security Researcher
 
-**Finding high-impact logic, accounting, access-control, and economic vulnerabilities across EVM protocols.**
-
 🥇 **2x 1st place** · 🥈 **2x 2nd place** · 🥉 **1x 3rd place** · **#7 on Code4rena's 2025 leaderboard**
 
 **Open to private security reviews and research collaborations**
