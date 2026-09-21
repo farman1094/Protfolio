@@ -22,11 +22,14 @@ I have contributed to numerous public audit competitions across Code4rena, Sherl
 
 My research focuses on protocol logic, accounting, access control, oracles, and economic vulnerabilities. I combine deep manual analysis with Foundry-based testing, stateless and stateful fuzzing, invariant reasoning, and an attacker-focused review of protocol assumptions.
 
-## 🔒 Private Engagements
+## 🔒 Private Engagements / Private Bug Hunt
 
 | Team | Protocol | Category | Report |
 |---|---|---|---|
 | Pashov Audit Group | MegPrime | Dex | Report not public yet |
+| Pashov Audit Group | Ensemble | Liquidity Vaults | Report not public yet |
+| Pashov Audit Group | Kittenswap | Dex | Report not public yet |
+
 
 ## 🏆 Public Audit Competitions
 
