@@ -18,7 +18,7 @@ I am a smart contract security researcher focused on identifying high-impact vul
 
 I have contributed to numerous public audit competitions across Code4rena, Sherlock, Immunefi, and Cantina, earning five podium finishes. This experience has exposed me to different protocol architectures and codebases ranging from approximately 1,000 to more than 10,000 lines of Solidity.
 
-My research focuses on protocol logic, accounting, access control, oracles, and economic vulnerabilities. I combine deep manual analysis with Foundry-based testing, stateless and stateful fuzzing, invariant reasoning, and an attacker-focused review of protocol assumptions.
+ I combine deep manual analysis with AI-assisted auditing, Foundry-based testing, stateless and stateful fuzzing, invariant reasoning, and a security-focused review of protocol assumptions. For AI-assisted reviews, I create targeted audit prompts around specific protocol behaviors, integrations, and risk scenarios to improve coverage and identify areas that require deeper manual investigation.
 
 ## 🔒 Private Engagements / Private Bug Hunt
 
