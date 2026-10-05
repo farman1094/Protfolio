@@ -27,6 +27,8 @@ I have contributed to numerous public audit competitions across Code4rena, Sherl
 | Pashov Audit Group | MegPrime | Dex | Report not public yet |
 | Pashov Audit Group | Ensemble | Liquidity Vaults | Report not public yet |
 | Pashov Audit Group | Kittenswap | Dex | Report not public yet |
+| Pashov Audit Group | Reserve | Index Asset | [here](https://github.com/reserve-protocol/reserve-index-dtf/blob/main/audits/pashov/reserve-security-review_2026-08-31.pdf) |
+
 
 
 ## 🏆 Public Audit Competitions
